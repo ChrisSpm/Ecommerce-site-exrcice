@@ -1,0 +1,1 @@
+An e-commerce website that drives online sales and customer loyalty, while providing global reach and continuous availability. This project is an exploration of these concepts through a practical implementation in JavaScript.
